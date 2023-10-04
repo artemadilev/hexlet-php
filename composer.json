@@ -1,0 +1,13 @@
+{
+    "name": "hex/example",
+    "description": "about my project",
+    "type": "project",
+    "license": "free",
+    "authors": [
+        {
+            "name": "I'm"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
